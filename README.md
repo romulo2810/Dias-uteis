@@ -44,6 +44,8 @@ Este projeto é uma aplicação web que calcula a quantidade de dias úteis entr
 ├── img/                # Imagens utilizadas
 └── README.md           # Documentação do projeto
 
-![image](https://github.com/user-attachments/assets/5669c201-4d6c-4415-b9f0-5f4ebb8bfb05)
 
+![image](https://github.com/user-attachments/assets/fee68ead-4e07-4093-8ccf-38f78a7be870)
+
+![image](https://github.com/user-attachments/assets/d2743ead-849a-4475-8693-f1cf2da577ea)
 
