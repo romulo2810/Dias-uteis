@@ -25,27 +25,25 @@ Este projeto é uma aplicação web que calcula a quantidade de dias úteis entr
 ## 🚀 Como Executar o Projeto
 
 1. **Clone o repositório:**
-   ```bash
+ 
    git clone [URL_DO_REPOSITORIO]
-   ```
+   
 
 2. **Abra o arquivo `index.html` em um navegador:**
-   ```bash
+  
    cd [PASTA_DO_PROJETO]
    open index.html
-   ```
+
 
 ## 📂 Estrutura do Projeto
 
-```
+
 ├── index.html          # Estrutura principal do site
 ├── style.css           # Arquivo de estilização
 ├── script.js           # Lógica de cálculo dos dias úteis
 ├── img/                # Imagens utilizadas
 └── README.md           # Documentação do projeto
 
+![image](https://github.com/user-attachments/assets/50881581-8fd0-4fe0-9887-c7a9e9d9967b)
 
-![image](https://github.com/user-attachments/assets/fee68ead-4e07-4093-8ccf-38f78a7be870)
-
-![image](https://github.com/user-attachments/assets/d2743ead-849a-4475-8693-f1cf2da577ea)
 
